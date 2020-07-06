@@ -12,3 +12,6 @@ Steps:-
 7. Now you will be mostly focused on create() & render() method.
 8. render() method is called again & again within milliseconds and you can define texture(images) which are loader in order.
 Note:- While compiling first i.e. run in physical or avd device please make sure you are connected to internet as it downloads some dependencies based on gradle.
+
+# Known Bugs:-
+There are certain bugs like gap between screen(top, bottom) and pipe. The reason the image that I've used for the pipe does not have proper height.
